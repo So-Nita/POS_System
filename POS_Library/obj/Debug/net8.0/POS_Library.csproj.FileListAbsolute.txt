@@ -1,0 +1,12 @@
+C:\Users\back-end.08\Documents\Project\POS_System\POS_Library\bin\Debug\net8.0\POS_Library.deps.json
+C:\Users\back-end.08\Documents\Project\POS_System\POS_Library\bin\Debug\net8.0\POS_Library.dll
+C:\Users\back-end.08\Documents\Project\POS_System\POS_Library\bin\Debug\net8.0\POS_Library.pdb
+C:\Users\back-end.08\Documents\Project\POS_System\POS_Library\obj\Debug\net8.0\POS_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\back-end.08\Documents\Project\POS_System\POS_Library\obj\Debug\net8.0\POS_Library.AssemblyInfoInputs.cache
+C:\Users\back-end.08\Documents\Project\POS_System\POS_Library\obj\Debug\net8.0\POS_Library.AssemblyInfo.cs
+C:\Users\back-end.08\Documents\Project\POS_System\POS_Library\obj\Debug\net8.0\POS_Library.csproj.CoreCompileInputs.cache
+C:\Users\back-end.08\Documents\Project\POS_System\POS_Library\obj\Debug\net8.0\POS_Library.sourcelink.json
+C:\Users\back-end.08\Documents\Project\POS_System\POS_Library\obj\Debug\net8.0\POS_Library.dll
+C:\Users\back-end.08\Documents\Project\POS_System\POS_Library\obj\Debug\net8.0\refint\POS_Library.dll
+C:\Users\back-end.08\Documents\Project\POS_System\POS_Library\obj\Debug\net8.0\POS_Library.pdb
+C:\Users\back-end.08\Documents\Project\POS_System\POS_Library\obj\Debug\net8.0\ref\POS_Library.dll
