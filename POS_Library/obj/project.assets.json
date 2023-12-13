@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Back-End.07\\.nuget\\packages\\": {}
+    "C:\\Users\\back-end.08\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Project\\POS_System\\POS_Library\\POS_Library.csproj",
+      "projectUniqueName": "C:\\Users\\back-end.08\\Documents\\Project\\POS_System\\POS_Library\\POS_Library.csproj",
       "projectName": "POS_Library",
-      "projectPath": "D:\\Work\\Project\\POS_System\\POS_Library\\POS_Library.csproj",
-      "packagesPath": "C:\\Users\\Back-End.07\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Project\\POS_System\\POS_Library\\obj\\",
+      "projectPath": "C:\\Users\\back-end.08\\Documents\\Project\\POS_System\\POS_Library\\POS_Library.csproj",
+      "packagesPath": "C:\\Users\\back-end.08\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\back-end.08\\Documents\\Project\\POS_System\\POS_Library\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Back-End.07\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\back-end.08\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
